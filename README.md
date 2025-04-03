@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Fadil Shereef, a Full Stack Developer with a passion for creating innovative web applications and solving complex problems through code. I recently completed my B.Tech in Computer Science from Thejus Engineering College and am now diving deep into the world of web development and data analysis.
+I'm a passionate Full Stack Developer with expertise in React, nextjs, JavaScript, TypeScript and Python. I enjoy building scalable web applications and working on projects that enhance user experiences with modern technologies.
 
 
 ## 🌐 Socials:
